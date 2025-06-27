@@ -87,7 +87,7 @@ class InvoicePDF:
         pdf.cell(130, 10 , f"Discount({self.discount_type})", border=0)
         pdf.cell(40, 10 , f"{total_discount:.2f}", ln=True, border=0)
         pdf.cell(130, 10 , f"Final Amount", border=0)
-        pdf.cell(40, 10 , f"{grand_total}", ln=True, border=0)
+        pdf.cell(40, 10 , f"Rupees {grand_total:.2f}", ln=True, border=0)
 
         #footer
         pdf.ln(10)
