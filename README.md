@@ -1,5 +1,18 @@
 # 💼 SwiftBill – Automated Invoice Generator
 
+# 💼 SwiftBill – Automated Invoice Generator
+
+![Framework](https://img.shields.io/badge/Framework-Flask-blue)
+![PDF](https://img.shields.io/badge/PDF-FPDF-green)
+![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
+![Deployment](https://img.shields.io/badge/Deployed-Render-success)
+![License](https://img.shields.io/badge/License-MIT-brightgreen)
+![Repo Stars](https://img.shields.io/github/stars/dinesh20121993/SwiftBill?style=social)
+![Repo Forks](https://img.shields.io/github/forks/dinesh20121993/SwiftBill?style=social)
+![Open Issues](https://img.shields.io/github/issues/dinesh20121993/SwiftBill)
+![Made by Dinesh](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20by%20Dinesh-orange)
+
+
 SwiftBill is a lightweight web application that allows freelancers and small businesses to **generate professional PDF invoices** instantly. Built with Python and Flask, it offers a clean interface for entering client details and billing data, and it outputs print-ready invoices using the FPDF2 library.
 
 ---
