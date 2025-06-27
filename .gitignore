@@ -23,8 +23,12 @@ wheels/
 share/python-wheels/
 *.egg-info/
 .installed.cfg
-*.egg
+*.eggs
 MANIFEST
+
+
+/.DS_Store/
+invoices/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
