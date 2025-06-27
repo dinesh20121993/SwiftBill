@@ -1,7 +1,5 @@
 # 💼 SwiftBill – Automated Invoice Generator
 
-# 💼 SwiftBill – Automated Invoice Generator
-
 ![Framework](https://img.shields.io/badge/Framework-Flask-blue)
 ![PDF](https://img.shields.io/badge/PDF-FPDF-green)
 ![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
